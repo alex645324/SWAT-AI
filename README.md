@@ -1,4 +1,4 @@
-## What We Built (SWAT.AI)
+**What We Built (SWAT.AI)**
 
 We built the first version of an AI system that works like a special-ops team entering a building instead of one person walking in alone, 
 multiple AI agents explore different paths at the same time, instantly share what doesn’t work, and focus together on what does.
