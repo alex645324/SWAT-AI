@@ -7,6 +7,8 @@ In cybersecurity, that coordination means identifying vulnerabilities and breaki
 
 In our tests, this system solved a highly difficult challenge that top human hackers and standard AI models could not solve in the same time.
 BECAUSE IT REFUSED TO THINK ALONE.
-<p align="center">
-  <img src="TheWhat.mp4" width="600"/>
-</p>
+
+
+## 🎥 Demo Video
+
+[▶️ Watch the Demo](TheWhat.mp4)
