@@ -11,4 +11,4 @@ BECAUSE IT REFUSED TO THINK ALONE.
 
 ## 🎥 Demo Video
 
-[▶️ Watch the Demo](TheWhat.mp4)
+[![Watch the Demo](https://img.youtube.com/vi/bJS0wyXeaDs/0.jpg)](https://www.youtube.com/watch?v=bJS0wyXeaDs)
